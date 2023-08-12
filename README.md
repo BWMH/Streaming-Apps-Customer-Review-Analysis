@@ -1,1 +1,2 @@
 # Streaming-Apps-Customer-Review-Analysis
+Since the Covid outbreak, streaming apps have become popular among people of all ages. But figuring out how users really feel about these apps, and how their feelings have changed after the pandemic, isn't easy from just a few reviews. Therefore, this project analyzed thousands of customer reviews from the Apple App Store using NRC lexicon and Cluster model to understand how good popular streaming apps like Netflix, Disney+, Hulu, and Amazon Prime are over time.
